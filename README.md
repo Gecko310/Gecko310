@@ -1,1 +1,1 @@
-console.log(kopitnsj)
+console.log('kopitnsj')
